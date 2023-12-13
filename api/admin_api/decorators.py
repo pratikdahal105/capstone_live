@@ -1,4 +1,3 @@
-from asyncio.windows_events import NULL
 from django.http import JsonResponse
 from functools import wraps
 from registration.models import Profile
